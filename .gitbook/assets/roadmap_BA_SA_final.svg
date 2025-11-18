@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2400" viewBox="0 0 2000 2400" fill="none">
+  <style>
+    .title { font: bold 36px 'DejaVu Sans', Arial, sans-serif; fill: #1a202c; }
+    .section { font: bold 28px 'DejaVu Sans', Arial, sans-serif; fill: #2b6cb0; }
+    .label { font: bold 30px 'DejaVu Sans', Arial, sans-serif; }
+    .item { font: 24px 'DejaVu Sans', Arial, sans-serif; fill: #1a202c; }
+    .ba { fill: #2f855a; }
+    .sa { fill: #2b6cb0; }
+  </style>
+  <rect width="2000" height="2400" rx="32" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="1000" y="70" text-anchor="middle" class="title">Roadmap 2025: Бизнес/Системный аналитик</text>
+
+  <!-- Бизнес аналитик -->
+  <text x="140" y="130" class="label ba">Бизнес аналитик</text>
+  <text x="140" y="180" class="section">Soft Skills</text>
+  <text x="160" y="220" class="item">• Эмоциональный интеллект (новый)</text>
+  <text x="160" y="260" class="item">• Адаптивность (новый)</text>
+  <text x="160" y="300" class="item">• Тайм-менеджмент</text>
+  <text x="160" y="340" class="item">• Командная работа</text>
+  <text x="160" y="380" class="item">• Инициативность (новый)</text>
+
+  <text x="140" y="450" class="section">Basic Skills</text>
+  <text x="160" y="490" class="item">• BPMN 2.0</text>
+  <text x="160" y="530" class="item">• Архитектура процессов</text>
+  <text x="160" y="570" class="item">• Визуализация данных</text>
+  <text x="160" y="610" class="item">• Использование GPT (новый)</text>
+  <text x="160" y="650" class="item">• JIRA, Confluence</text>
+  <text x="160" y="690" class="item">• Нормализация</text>
+  <text x="160" y="730" class="item">• Продуктовый аналитик</text>
+
+  <text x="140" y="800" class="section">Technical Skills</text>
+  <text x="160" y="840" class="item">• API и интеграции</text>
+  <text x="160" y="880" class="item">• SQL и базы данных</text>
+  <text x="160" y="920" class="item">• Python (новый)</text>
+  <text x="160" y="960" class="item">• Tableau, Power BI</text>
+
+  <!-- Системный аналитик -->
+  <text x="1080" y="130" class="label sa">Системный аналитик</text>
+  <text x="1080" y="180" class="section">Soft Skills</text>
+  <text x="1100" y="220" class="item">• Стрессоустойчивость (новый)</text>
+  <text x="1100" y="260" class="item">• Тайм-менеджмент</text>
+  <text x="1100" y="300" class="item">• Командная работа</text>
+  <text x="1100" y="340" class="item">• Аналитический склад ума</text>
+  <text x="1100" y="380" class="item">• Критическое мышление</text>
+  <text x="1100" y="420" class="item">• Коммуникабельность</text>
+  <text x="1100" y="460" class="item">• Ответственность</text>
+
+  <text x="1080" y="520" class="section">Business</text>
+  <text x="1100" y="560" class="item">• BPMN 2.0</text>
+  <text x="1100" y="600" class="item">• UML</text>
+  <text x="1100" y="640" class="item">• DFD</text>
+  <text x="1100" y="680" class="item">• Архитектура процессов</text>
+  <text x="1100" y="720" class="item">• Визуализация данных</text>
+  <text x="1100" y="760" class="item">• Использование GPT (новый)</text>
+  <text x="1100" y="800" class="item">• JIRA, Confluence</text>
+
+  <text x="1080" y="860" class="section">TECH</text>
+  <text x="1100" y="900" class="item">• Разработка ПО: Python, Java</text>
+  <text x="1100" y="940" class="item">• ETL: Airflow</text>
+  <text x="1100" y="980" class="item">• API: REST, SOAP, GraphQL</text>
+  <text x="1100" y="1020" class="item">• Базы данных: SQL, NoSQL</text>
+  <text x="1100" y="1060" class="item">• DWH &amp; BI: Kafka, Tableau, PowerBi</text>
+  <text x="1100" y="1100" class="item">• Микросервисы</text>
+  <text x="1100" y="1140" class="item">• Системное проектирование (новый)</text>
+  <text x="1100" y="1180" class="item">• IA/LLM: RAG (новый), VLM (новый)</text>
+  <text x="1100" y="1220" class="item">• Data Science: ML, Data Engineer</text>
+</svg>
