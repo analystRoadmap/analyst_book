@@ -113,8 +113,10 @@ flowchart TD
     end
 
     subgraph Middle["🔧 Middle · 1–3 года"]
-      M1["REST API · SQL · Git"]
-      M2[Проектирование]
+      M1["REST API · Интеграции"]
+      M1b["SQL · NoSQL"]
+      M1c["Git / VCS"]
+      M2["Проектирование · UX/UI"]
       M3["SDLC · Scrum · Kanban"]
       M4[Product Management]
     end
@@ -134,7 +136,37 @@ flowchart TD
     end
 
     Junior --> Middle --> Senior --> SeniorPlus
+
+    click M1 href "https://roadmap.sh/api-design" _blank
+    click M1b href "https://roadmap.sh/sql" _blank
+    click M1c href "https://roadmap.sh/git-github" _blank
+    click M2 href "https://roadmap.sh/ux-design" _blank
+    click S1 href "https://roadmap.sh/software-design-architecture" _blank
+    click S2 href "https://roadmap.sh/cyber-security" _blank
+    click S3 href "https://roadmap.sh/devops" _blank
+    click S4 href "https://roadmap.sh/system-design" _blank
 ```
+
+## 🗺️ Интерактивная карта с кликабельными ссылками
+
+Файл [`roadmap-links.mermaid`](roadmap-links.mermaid) содержит flowchart с кликабельными узлами — клик по каждому техническому блоку открывает соответствующий роадмап на roadmap.sh.
+
+## 🔗 Связанные роадмапы на roadmap.sh
+
+| Тема в роадмапе | Роадмап на roadmap.sh |
+|---|---|
+| SQL и NoSQL / Данные | [SQL Roadmap](https://roadmap.sh/sql) |
+| API и Интеграции (REST, gRPC, GraphQL) | [API Design Roadmap](https://roadmap.sh/api-design) |
+| Git / VCS | [Git & GitHub Roadmap](https://roadmap.sh/git-github) |
+| UX/UI / Проектирование | [UX Design Roadmap](https://roadmap.sh/ux-design) |
+| Backend / Разработка | [Backend Roadmap](https://roadmap.sh/backend) |
+| Frontend / Разработка | [Frontend Roadmap](https://roadmap.sh/frontend) |
+| Архитектура (DDD, Microservices, Patterns) | [Software Design & Architecture](https://roadmap.sh/software-design-architecture) |
+| Архитектура (системный уровень) | [System Design Roadmap](https://roadmap.sh/system-design) |
+| DevOps и CI/CD | [DevOps Roadmap](https://roadmap.sh/devops) |
+| DevOps / Контейнеры | [Docker Roadmap](https://roadmap.sh/docker) |
+| Информационная безопасность | [Cyber Security Roadmap](https://roadmap.sh/cyber-security) |
+| Data Analytics и BI | [Data Analyst Roadmap](https://roadmap.sh/data-analyst) |
 
 ## Навигация по Roadmap
 

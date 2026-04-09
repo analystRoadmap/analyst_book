@@ -18,6 +18,39 @@ BTC: bc1q2mwz0gcq2ul7nkx5066xk5gqvuwn2e6c7ylj0y
 
 ETH: 0x6331182EC761F3e28a3B7c10f36b952Ed3e52Fd7
 
+---
+
+## 📚 Ресурсы дорожной карты
+
+Этот roadmap включает материалы из следующих источников:
+
+### Основные стандарты
+- **BABOK v3** - Business Analysis Body of Knowledge (IIBA)
+- **SWEBOK** - Software Engineering Body of Knowledge
+- **The Agile Manifesto** - принципы гибкой разработки
+
+### Ключевые авторы и источники
+- **Peter Senge** - "The Fifth Discipline"
+- **Simon Wardley** - "Wardley Mapping"
+- **Jeff Patton** - User Story Mapping
+- **Don Norman** - Design of Everyday Things
+
+### Сообщества
+- International Institute of Business Analysis (IIBA)
+- Agile Alliance
+- Project Management Institute (PMI)
+- IEEE Computer Society
+
+### Инструменты и платформы
+- Jira, Confluence - управление проектами и документация
+- Miro, Lucidchart - визуализация и диаграммы
+- Draw.io - инструменты для моделирования
+- Figma - дизайн интерфейсов
+- Git - управление версиями
+
+### Дополнительные материалы
+Каждый раздел дорожной карты включает специализированные рекомендации по книгам, курсам и инструментам для конкретной области знаний.
+
 
 
 
