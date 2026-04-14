@@ -133,3 +133,7 @@
 * [ИИ и LLM](systems_analyst/ia-llm/README.md)
   * [RAG (Retrieval-Augmented Generation)](systems_analyst/ia-llm/rag.md)
   * [VLM (Vision Language Models)](systems_analyst/ia-llm/vlm.md)
+
+***
+
+* [System Analyst Roadmap - roadmap.sh](system-analyst-roadmap-roadmap.sh.md)
